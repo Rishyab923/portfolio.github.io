@@ -1,0 +1,50 @@
+Title: Hotel Maangement
+
+Problem Identification
+The hospitality industry faces challenges in managing various operations like handling reservations, storing customer details, processing payments, and maintaining hotel records. Manual processes often lead to errors, delays, and inefficiencies, which can negatively impact customer satisfaction and the hotel's profitability. Therefore, a robust and user-friendly Hotel Management System is needed to address these challenges.
+
+
+
+
+Module Function
+1.Hotels
+2.Customers
+3.Reservations
+4.Payments
+
+
+Data Structures Used
+Arrays
+Functions
+Stacks
+Structures
+
+
+
+
+Algorithms Used
+Boyer-Moore Algorithm
+KMP Algorithm
+Rabin-Karp Algorithm
+Dijkstra s algorithm
+Selection Sort
+Merge Sort
+Quick Sort
+Brute Force
+Linear Search
+Binary Search
+Heap Sort
+Bubble Sort
+
+
+Users of Software
+1. Hotel Staff
+2. Customers
+3. Third-Party Service Providers
+
+
+Motivation 
+Efficiency in Operations
+Enhanced Customer Experience
+Data Management and Reporting
+Cost-Effectiveness
