@@ -3,7 +3,7 @@
 ## Hotelmanagment
 
 
-### Hello, I'm [Kiran Bpatil] 👋
+### Hello, I'm [Rishyab Huded] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
